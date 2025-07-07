@@ -1,0 +1,2 @@
+# Supervised_learning_Algorithm
+type 1_simple_linear_Regression
